@@ -16,7 +16,6 @@ A classic Pong game clone built using Python and the Pygame library. This projec
 - [Technologies](#technologies)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [Author](#author)
 - [License](#license)
 
 ## About
