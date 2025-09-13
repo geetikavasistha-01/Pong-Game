@@ -1,6 +1,6 @@
 # Pong Game in Python (Pygame)
 
-A classic Pong game clone built using Python and the Pygame library. This project demonstrates fundamental game programming concepts including keyboard input, graphics rendering, collision detection, and basic game state management.
+A classic Pong game built using Python and the Pygame library. This project demonstrates fundamental game programming concepts including keyboard input, graphics rendering, collision detection, and basic game state management.
 
 <img width="892" height="496" alt="Screenshot 2025-09-13 at 8 40 50 PM" src="https://github.com/user-attachments/assets/260abb6d-8ab0-472c-a553-39eaf81e1e69" />
 
