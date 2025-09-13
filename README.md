@@ -2,7 +2,9 @@
 
 A classic Pong game clone built using Python and the Pygame library. This project demonstrates fundamental game programming concepts including keyboard input, graphics rendering, collision detection, and basic game state management.
 
-![pong-screenshot-placeholder]()
+<img width="892" height="496" alt="Screenshot 2025-09-13 at 8 40 50 PM" src="https://github.com/user-attachments/assets/260abb6d-8ab0-472c-a553-39eaf81e1e69" />
+
+<img width="895" height="492" alt="Screenshot 2025-09-13 at 8 41 20 PM" src="https://github.com/user-attachments/assets/6a6e6b8a-1fe3-4ffa-ac03-717867427979" />
 
 ## Table of Contents
 
@@ -68,12 +70,6 @@ The game window will open, and you can start playing.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repo, make improvements, and submit pull requests.
-
-## Author
-
-[Your Name]  
-[Your GitHub Profile]  
-[Your Contact Information]
 
 ## License
 
